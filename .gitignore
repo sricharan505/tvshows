@@ -1,18 +1,15 @@
 # See https://help.github.com/articles/ignoring-files/ for more about ignoring files.
 
 # dependencies
-/react-movies
-/node_modules
+/react-movies/node_modules
 /.pnp
 .pnp.js
 
 # testing
-/react-movies
-/coverage
+/react-movies/coverage
 
 # production
-/react-movies
-/build
+/react-movies/build
 
 # misc
 .DS_Store
